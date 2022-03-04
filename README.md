@@ -4,12 +4,12 @@
 - 💞️ I’m looking to collaborate on anything fun here
 - 📫 How to reach me  https://twitter.com/odipo_monicah 
 
-### 🏆 GitHub Profile Trophy
+### 🏆 GitHub Profile Trophy:
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MonahDipsy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 ---
 
 

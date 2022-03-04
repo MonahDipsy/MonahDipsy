@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on anything fun here
 - 📫 How to reach me monicahodipo55@gmail.com 
 
-<!---
-MonahDipsy/MonahDipsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 ### GitHub Stats
 ...
 

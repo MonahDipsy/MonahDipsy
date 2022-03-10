@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on anything fun here
-- 📫 How to reach me  https://twitter.com/odipo_monicah 
+- 📫 How to reach me monicahodipo55@gmail.com 
 
 ### 🏆 GitHub Profile Trophy:
 ---

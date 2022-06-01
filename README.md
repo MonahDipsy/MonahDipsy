@@ -1,6 +1,6 @@
 - # Hi there, 👋 I'm Monicah
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning...
+- 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on anything fun here
 - 📫 How to reach me monicahodipo55@gmail.com 
 

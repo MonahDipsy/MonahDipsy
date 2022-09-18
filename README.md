@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on anything fun here
-- 📫 How to reach me monicahodipo55@gmail.com 
+- 📫 How to reach me: https://linktr.ee/monicahodipo
 
 ### 🏆 GitHub Profile Trophy:
 ---

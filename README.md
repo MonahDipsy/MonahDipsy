@@ -1,4 +1,4 @@
-- # Hi there, 👋 I'm Monicah
+- # Hi there, 👋 I'm Joseph 
 - 👀 I’m interested in software development 
 - 💞️ I’m looking to collaborate on anything fun here
 - 📫 How to reach me: https://linktr.ee/monicahodipo
